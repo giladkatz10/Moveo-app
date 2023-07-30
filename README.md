@@ -24,6 +24,6 @@ The server is deployed on Heroku
 
 ## Future improvements 
 - Implement automatic real-time client count when clients join or leave the code block room. 
-I have introduced a 'reset Clients' button to address potential coordination issues between the mentor/student feature. 
+I have introduced a 'reset Clients' button to address potential coordination issues in the mentor/student feature. 
 This button allows users to reset the Clients count.
-- Check the Solution Feature: Introduce the "Check the Solution" feature for mentors to assess and validate students' real-time solutions.
+- Introduce a "Check the Solution" feature for mentors to assess and validate students' real-time solutions.
