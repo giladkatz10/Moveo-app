@@ -2,9 +2,9 @@
 
 ## Introduction
 
-- This web application facilitates real-time coding collaboration between mentors and students. 
-- The mentor can share code with the student and observe them as they write and modify it in real-time. 
-- The application consists of two primary pages: the Lobby page and the Code block page.
+This web application facilitates real-time coding collaboration between mentors and students. 
+The mentor can share code with the student and observe them as they write and modify it in real-time. 
+The application consists of two primary pages: the Lobby page and the Code block page.
 
 ## Main technologies
 - Express.js
