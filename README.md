@@ -17,6 +17,7 @@
 ## Deployment
 
 The website is accessible at: https://cute-blini-5f16a4.netlify.app
+
 The client is deployed on Netlify 
 The server is deployed on Heroku
 
